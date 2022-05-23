@@ -1,11 +1,23 @@
-# Sample Snack app
+# Cool Weather App
 
-Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
 
-When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Download** your project and use it with [expo-cli](https://docs.expo.io/get-started/installation).
+Expo Snack 에서 React 로 개발한 날씨 + 옷차림 appliction입니다.
 
-All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the `<>` button.
 
-If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.io/c/snack).
 
-Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
+## SnapShots
+<p>
+<img src = "https://user-images.githubusercontent.com/13077196/169853355-e4615779-2b75-42c4-8fdd-fd9ddc67e732.png" width =150px>
+<img src = "https://user-images.githubusercontent.com/13077196/169853391-2c7012ce-9a84-42b7-a954-4535d55da9f2.png" width =150px>
+<img src = "https://user-images.githubusercontent.com/13077196/169853418-bca51653-2848-4679-b19e-edb1f6c77480.png" width =150px>
+</p>
+
+
+
+
+### Check out my Application on Expo
+
+https://snack.expo.dev/@eh13/coolweatherapp
+
+
+![image](https://user-images.githubusercontent.com/13077196/169852604-22b7a0fd-25b6-46e4-adbc-e48cefc03b64.png)
