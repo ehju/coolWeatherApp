@@ -1,8 +1,11 @@
 # Cool Weather App
 
 
-Expo Snack 에서 React 로 개발한 날씨 + 옷차림 appliction입니다.
+Expo Snack 에서 React 로 개발한 날씨 + 옷차림 application입니다.
 
+날씨 API를 기반으로 현재 위치에서 일주일간 날씨와 온도를 알려줍니다.
+
+온도에 따라 어울리는 옷차림을 이미지로 표현해줍니다.
 
 
 ## SnapShots
